@@ -1,0 +1,29 @@
+h1
+{
+margin-bottom: 5px;
+//padding-top: 20px;
+}
+a
+{
+font-size: 30px;
+text-decoration: none;
+color: white;
+font-weight: bolder;
+padding-top: 20px;
+}
+#div1
+{
+//background-color: black;
+color: yellow;
+padding-bottom:20px;
+text-transform: uppercase;
+text-align: center;
+}
+#div2
+{
+text-transform: capitalize;
+width:100%;
+height: 100px;
+background: linear-gradient(white,black);
+
+}
